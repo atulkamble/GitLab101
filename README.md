@@ -1,4 +1,4 @@
-# [GitLab 101 Tool Certification Notes + Important Souces](https://atulkamble.github.io/GitLab101/)
+# [GitLab 101 Tool Certification Notes + Important Sources](https://atulkamble.github.io/GitLab101/)
 
 
 ## About GitLab 101 training
