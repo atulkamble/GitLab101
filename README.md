@@ -78,9 +78,10 @@ Definition: denoting software for which the original source code is made freely 
 
 ## [Lesson 2: GitLab Issues Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeR1zOvGKrDWD1t52DNv3DdNeLblI2nPP0dm-PKD8TkNUfB7Q/viewform)
 
-[Go through Notes and YouTube Videos Links of GitHub Issues](https://about.gitlab.com/handbook/people-group/learning-and-development/certifications/gitlab-101/)
+[Go through Official Theory and YouTube Videos of GitHub Issues](https://about.gitlab.com/handbook/people-group/learning-and-development/certifications/gitlab-101/)
+
 ## [Lesson 3: GitLab Merge Requests Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfzwgutFZegAESbgsiObhb6N8rqn4NNlWDbxACK7khh3p5hJA/viewform)
-[Go through Notes YouTube Videos Links of GitLab Merge Request](https://about.gitlab.com/handbook/people-group/learning-and-development/certifications/gitlab-101/)
+[Go through Official Theory and YouTube Videos of GitLab Merge Request](https://about.gitlab.com/handbook/people-group/learning-and-development/certifications/gitlab-101/)
 
 
 
