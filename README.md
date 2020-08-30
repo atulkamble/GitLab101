@@ -1,4 +1,4 @@
-## [GitLab 101 Tool Certification Notes + Important Souces](https://atulkamble.github.io/GitLab101/)
+# [GitLab 101 Tool Certification Notes + Important Souces](https://atulkamble.github.io/GitLab101/)
 
 
 ## About GitLab 101 training
@@ -15,12 +15,12 @@ GitLab Account set up + Laptop + WiFi
 - **To Learn how to open, comment on, and move GitLab Issues**\
 - **To Learn how to create a GitLab Merge Request**
 
-# [FlashCards](https://www.flippity.net/fc.asp?k=1_jf6kg7EVGAhn5YJaxUz0TdavEfh1S2XPxyE4OnqWYE&t=card)
+## [FlashCards](https://www.flippity.net/fc.asp?k=1_jf6kg7EVGAhn5YJaxUz0TdavEfh1S2XPxyE4OnqWYE&t=card)
 
-# [Lesson 1: Technical Terminology Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd3G3QJJRa1XvKbUNXhJENSxoWd5907CpP4-jhvvyRcvZzwRA/viewform)
-# [Lesson 2: GitLab Issues Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeR1zOvGKrDWD1t52DNv3DdNeLblI2nPP0dm-PKD8TkNUfB7Q/viewform)
-# [Lesson 3: GitLab Merge Requests Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfzwgutFZegAESbgsiObhb6N8rqn4NNlWDbxACK7khh3p5hJA/viewform)
-# Technical Terms
+## [Lesson 1: Technical Terminology Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd3G3QJJRa1XvKbUNXhJENSxoWd5907CpP4-jhvvyRcvZzwRA/viewform)
+## [Lesson 2: GitLab Issues Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeR1zOvGKrDWD1t52DNv3DdNeLblI2nPP0dm-PKD8TkNUfB7Q/viewform)
+## [Lesson 3: GitLab Merge Requests Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfzwgutFZegAESbgsiObhb6N8rqn4NNlWDbxACK7khh3p5hJA/viewform)
+## Technical Terms
 
 ## GitLab
 GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features, using an open-source license.
