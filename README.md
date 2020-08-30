@@ -1,6 +1,6 @@
 # [GitLab 101 Tool Certification Notes + Important Sources](https://atulkamble.github.io/GitLab101/)
 
-# The GitLab 101 Certification includes 3 Quizzes , 80 % Marks Required to PASS
+# The GitLab 101 Certification includes 3 Quizzes & it requires 80 % Marks to PASS and earn GitLab 101 Certification.
 
 ## About GitLab 101 training
 This certification is for those who needs to know how to use GitLab and be technical to some level. This training is geared toward GitLab team members who are in non-engineering roles (i.e. recruiting, peopleops, marketing, finance, etc) and/or have not used a DevOps tool like GitLab before. This can also be helpful for non-engineering people outside of GitLab wanting to learn how to use GitLab for personal projects.
