@@ -1,5 +1,7 @@
 ## [GitLab 101 Tool Certification Notes + Important Souces](https://atulkamble.github.io/GitLab101/)
 
+## [Official GitLab 101 Tool Certification Page](https://about.gitlab.com/handbook/people-group/learning-and-development/certifications/gitlab-101/)
+
 ## 101 training
 This certification is for those who needs to know how to use GitLab and be technical to some level. This training is geared toward GitLab team members who are in non-engineering roles (i.e. recruiting, peopleops, marketing, finance, etc) and/or have not used a DevOps tool like GitLab before. This can also be helpful for non-engineering people outside of GitLab wanting to learn how to use GitLab for personal projects.
 
