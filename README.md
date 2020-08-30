@@ -8,9 +8,16 @@ This certification is for those who needs to know how to use GitLab and be techn
 GitLab Account set up + Laptop + WiFi
 
 ## Objectives
-To Learn common technical terms used at GitLab
-To Learn how to open, comment on, and move GitLab Issues
-To Learn how to create a GitLab Merge Request
+**To Learn common technical terms used at GitLab**\
+**To Learn how to open, comment on, and move GitLab Issues**\
+**To Learn how to create a GitLab Merge Request**
+
+# Technical Terms
+
+## GitLab
+GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features, using an open-source license.
+
+Summarized: GitLab is a complete DevOps platform, delivered as a single application.
 
 
 ## Welcome to GitHub Pages
