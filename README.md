@@ -85,6 +85,13 @@ Definition: denoting software for which the original source code is made freely 
 [Go through Official Theory and YouTube Videos of GitLab Merge Request](https://about.gitlab.com/handbook/people-group/learning-and-development/certifications/gitlab-101/)
 
 
+After completing and passing all three lessons (1 - Technical Terminology, 2 - Issues, and 3 - Merge Requests) in this certification, you will receive an email containing your new certificate!
+
+# [Official GitLab101 Feedback Page](https://docs.google.com/forms/d/e/1FAIpQLSdtScO_hkV_mFlhlB4tiSf9tjXvrQBVMkkGCOegZlZH2yzZWQ/viewform)
+
+---------------------------------------------------------------------------
+
+
 # Technical Author Profile (Study Guide + Notes):
 - [LinkedIn: atuljkamble](https://www.linkedin.com/in/atuljkamble) 
 - [Twitter: atul_kamble](https://www.twitter.com/atul_kamble)
