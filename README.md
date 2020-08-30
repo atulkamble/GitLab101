@@ -83,3 +83,10 @@ Definition: denoting software for which the original source code is made freely 
 ## [Lesson 3: GitLab Merge Requests Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfzwgutFZegAESbgsiObhb6N8rqn4NNlWDbxACK7khh3p5hJA/viewform)
 [Go through Official Theory and YouTube Videos of GitLab Merge Request](https://about.gitlab.com/handbook/people-group/learning-and-development/certifications/gitlab-101/)
 
+
+# Technical Author Profile (Study Guide + Notes):
+- [LinkedIn: atuljkamble](https://www.linkedin.com/in/atuljkamble) 
+- [Twitter: atul_kamble](https://www.twitter.com/atul_kamble)
+- [Github: atulkamble](https://www.github.com/atulkamble)
+- [Medium: atul_kamble](https://medium.com/@atul_kamble)
+
