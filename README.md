@@ -18,6 +18,9 @@ GitLab Account set up + Laptop + WiFi
 ## [FlashCards](https://www.flippity.net/fc.asp?k=1_jf6kg7EVGAhn5YJaxUz0TdavEfh1S2XPxyE4OnqWYE&t=card)
 ## [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
+
+
+## [Lesson 1: Technical Terminology Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd3G3QJJRa1XvKbUNXhJENSxoWd5907CpP4-jhvvyRcvZzwRA/viewform)
 ## Technical Terms
 
 ## GitLab
@@ -72,8 +75,6 @@ Definition: used for entering data into, and displaying or printing data from, a
 
 ## Open Source
 Definition: denoting software for which the original source code is made freely available and may be redistributed and modified.
-
-## [Lesson 1: Technical Terminology Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd3G3QJJRa1XvKbUNXhJENSxoWd5907CpP4-jhvvyRcvZzwRA/viewform)
 
 ## [Lesson 2: GitLab Issues Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeR1zOvGKrDWD1t52DNv3DdNeLblI2nPP0dm-PKD8TkNUfB7Q/viewform)
 
