@@ -8,9 +8,9 @@ This certification is for those who needs to know how to use GitLab and be techn
 GitLab Account set up + Laptop + WiFi
 
 ## Objectives
-**To Learn common technical terms used at GitLab**\
-**To Learn how to open, comment on, and move GitLab Issues**\
-**To Learn how to create a GitLab Merge Request**
+- **To Learn common technical terms used at GitLab**\
+- **To Learn how to open, comment on, and move GitLab Issues**\
+- **To Learn how to create a GitLab Merge Request**
 
 # Technical Terms
 
