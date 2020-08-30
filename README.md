@@ -12,6 +12,7 @@ GitLab Account set up + Laptop + WiFi
 - **To Learn how to open, comment on, and move GitLab Issues**\
 - **To Learn how to create a GitLab Merge Request**
 
+# [FlashCards](https://www.flippity.net/fc.asp?k=1_jf6kg7EVGAhn5YJaxUz0TdavEfh1S2XPxyE4OnqWYE&t=card)
 # Technical Terms
 
 ## GitLab
