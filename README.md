@@ -16,8 +16,65 @@ GitLab Account set up + Laptop + WiFi
 
 ## GitLab
 GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features, using an open-source license.
-
 Summarized: GitLab is a complete DevOps platform, delivered as a single application.
+
+## Git
+Definition: is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
+
+## DevOps
+Definition: is a set of practices that combines software development and information-technology operations which aims to shorten the systems development life cycle and provide continuous delivery with high software quality.
+
+## Project
+Definition: used for hosting your codebase, as an issue tracker, collaborate on code, and continuously build, test, and deploy your app with built-in GitLab CI/CD.
+Example: This is a project.
+
+## Issue
+Definition: the fundamental medium for collaborating on ideas and planning work in GitLab
+Example: This is an Issue.
+
+## Milestone
+Definition: are a way to track issues and merge requests created to achieve a broader goal in a certain period of time. They allow you to organize issues and merge requests into a cohesive group, with an optional start date and an optional due date.
+More information on: milestones
+
+## Label
+Definition: allow you to categorize epics, issues, and merge requests using descriptive titles like bug, feature request, or docs, as well as customizable colors. They allow you to quickly and dynamically filter and manage epics, issues, and merge requests, and are a key part of issue boards.
+More information on: labels
+
+## Weight
+Definition: allow you to get a better idea of how much time, value or complexity a given issue has or will cost.
+More information on: issue weights
+
+## Merge Request
+Definition: allows you to visualize and collaborate on the proposed changes to source code that exist as commits on a given Git branch. A Merge Request (MR) is the basis of GitLab as a code collaboration and version control platform. It is as simple as the name implies: a request to merge one branch into another.
+Example: This is a Merge Request.
+
+## Commit
+Definition: Merge requests allow you to visualize and collaborate on the proposed changes to source code that exist as commits on a given Git branch
+
+## Branch
+Definition: a version of a project’s working tree. You create a branch for each set of related changes you make. This keeps each set of changes separate from each other, allowing changes to be made in parallel, without affecting each other.
+
+## Markdown
+Definition: a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.
+Example: Take a look at our GitLab Markdown Guide
+
+## Local
+Definition: your machine
+Example: If someone says to do something locally that means to open the terminal on your computer to make a change.
+
+## SSH Key (SSH = Secure Shell)
+Definition: a cryptographic network protocol for operating network services securely over an unsecured network.
+
+## Source Code
+Definition: a text listing of commands to be compiled or assembled into an executable computer program.
+
+## Terminal
+Definition: used for entering data into, and displaying or printing data from, a computer or a computing system.
+
+## Open Source
+Definition: denoting software for which the original source code is made freely available and may be redistributed and modified.
+Example: Our GitLab handbook is open source because anyone can make changes and contribute to it.
+
 
 
 ## Welcome to GitHub Pages
