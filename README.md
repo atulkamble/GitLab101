@@ -24,10 +24,10 @@ Definition: is a distributed version-control system for tracking changes in sour
 ## DevOps
 Definition: is a set of practices that combines software development and information-technology operations which aims to shorten the systems development life cycle and provide continuous delivery with high software quality.
 
-## Project
+## Project*
 Definition: used for hosting your codebase, as an issue tracker, collaborate on code, and continuously build, test, and deploy your app with built-in GitLab CI/CD.
 
-## Issue
+## Issue*
 Definition: the fundamental medium for collaborating on ideas and planning work in GitLab
 
 ## Milestone
@@ -39,7 +39,7 @@ Definition: allow you to categorize epics, issues, and merge requests using desc
 ## Weight
 Definition: allow you to get a better idea of how much time, value or complexity a given issue has or will cost.
 
-## Merge Request
+## Merge Request*
 Definition: allows you to visualize and collaborate on the proposed changes to source code that exist as commits on a given Git branch. A Merge Request (MR) is the basis of GitLab as a code collaboration and version control platform. It is as simple as the name implies: a request to merge one branch into another.
 
 ## Commit
